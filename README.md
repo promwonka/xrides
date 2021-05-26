@@ -1,5 +1,5 @@
 This is an assignment to find location analytics insights.
-
+Visualization : https://datastudio.google.com/reporting/51425c1d-48ed-4bf5-9192-d911855b4106/page/pyLLC 
 Dataset:
 
     id - booking ID
